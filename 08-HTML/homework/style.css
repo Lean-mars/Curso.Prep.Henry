@@ -1,0 +1,20 @@
+h1 {
+    color:tomato;
+}
+
+img {
+    width:400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    background-color: gold;
+    border: 5px dashed red;
+}
+
+#spanId {
+    margin: 50px;
+    font-size: 18px;
+}
