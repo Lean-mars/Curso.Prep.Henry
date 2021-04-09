@@ -1,0 +1,7 @@
+Un "for" es un bucle que recorre un array o arreglo. Se utiliza en caso de que el arreglo contenga muchos items o valores y no sepamos con exactitud su longitud o que valores contiene.
+El for te ahorra el trabajo de tener que recorrer cada item de un array.
+
+Los operadores de comparación son:
+    1. "&&", el cual compara dos valores booleanos(verdaderos o falsos) y determina el valor final (si ambos son verdaderos el resultado es verdadero, pero si uno de ellos es falso el resultado es falso).
+    2. "||", es similar a && solo que si uno de los valores comparados es verdadero entonces el resultado es verdadero.
+    3. "!", se utiliza para negar un valor. El valor de "!true" seria false, ya que se niega su valor y se devuelve el contrario.
