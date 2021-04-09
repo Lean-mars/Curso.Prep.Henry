@@ -1,0 +1,12 @@
+    Los objetos son similares a las listas, aunque una de las diferencias mas notables es que los objetos pueden contener distintos tipos de información para una misma cosa.
+Esta información se llama "propiedad" del objeto. Por ejemplo podemos tener un objeto "auto" y guardar en él su marca, modelo, color, etc. Estas pasan a ser sus propiedades
+Las propiedades se almacenan como "clave y valor". Los objetos pueden tener múltiples claves con sus valores respectivos, estas claves son únicas de cada objeto y solo puede haber una con ese nombre, aunque las claves pueden tener un mismo valor.
+    
+    Los métodos son funciones dentro del objeto, se puede decir que son las cosas que el objeto "sabe hacer". Los métodos se escriben con notación de puntos.
+Ej: "objeto.función();" => Asi se llaman o invocan los métodos del objeto, se ejecuta la función.
+    
+    El bucle "For...in" nos ayuda a recorrer las propiedades de un objeto. Lo similar con un for loop es la iteración, pero como los objetos no tienen un índice el "for in" nos ayuda a recorrer las claves del objeto.
+    
+    Hay dos formas de acceder a las propiedades de un objeto:
+    1. La notación de puntos se utiliza de esta forma: "objeto.clave", y nos devuelve el valor del objeto asignado a esa clave.
+    2. La notación de corchetes es similar, solo que la clave debe ser una String o un número, o una variable que contenga una String o un número (objeto["clave"]).
