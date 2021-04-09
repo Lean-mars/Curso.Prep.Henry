@@ -1,0 +1,4 @@
+Un array o arreglo es una lista de elementos. Estas listas pueden contener cualquier tipo de valor, sea booleano, entero, string, funciones e incluso objetos.
+Se pueden acceder a los elementos de las listas buscandolas con su índice (todas las listas empiezan con su índice en 0).
+Ej: lista = [1, 2, 3] => Si queremos acceder al primero elemento de la lista (en este caso 1), escribimos "lista[0]". Para los demas elementos solo incrementamos el valor dentro de los corchetes en 1.
+Si el índice que introducimos dentro de los corchetes es mayor que la longitud de la lista ésta nos va a devolver "undefined", ya que ese valor no existe.
